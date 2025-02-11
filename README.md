@@ -1,4 +1,4 @@
-# Deterministic and stochastic foot-and-mouth (FMD) models
+# Deterministic and stochastic foot-and-mouth disease (FMD) models
 
 The code was run using the version of MATLAB R2023.
 
